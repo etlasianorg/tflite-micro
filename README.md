@@ -27,7 +27,7 @@ Additional Links:
 
  * [GitHub Status](https://www.githubstatus.com/)
 
-## Official Builds
+## Official Build
 
 Build Type       |    Status     |
 -----------      | --------------|
