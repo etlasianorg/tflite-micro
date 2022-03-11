@@ -81,6 +81,7 @@ The following resources may also be useful:
    * Send an email to the [TfLite Mailing List](https://groups.google.com/a/tensorflow.org/g/tflite)
    * Create a [TensorFlow Lite Converter Issue](https://github.com/tensorflow/tensorflow/issues/new?assignees=&labels=TFLiteConverter&template=60-tflite-converter-issue.md)
    * Create an issue in the [model optimization toolkit](https://github.com/tensorflow/model-optimization) GitHub repository
+   * Create an issue in the [model optimization toolkit](https://github.com/tensorflow/model-optimization) GitHub repository
 
 
 # Additional Documentation
