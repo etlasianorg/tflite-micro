@@ -58,3 +58,4 @@ python tensorflow/lite/tools/flatbuffer_utils_test.py
 python tensorflow/lite/tools/visualize.py tensorflow/lite/micro/models/person_detect.tflite tensorflow/lite/micro/models/person_detect.tflite.html
 ```
 
+Run some tests and binaries:
